@@ -1,3 +1,6 @@
 [submodule "CurvesUnity/Assets/Curves"]
 	path = CurvesUnity/Assets/Curves
 	url = git@github.com:c1tr00z/curves.git
+[submodule "CurvesUnity/Assets/AssistLib"]
+	path = CurvesUnity/Assets/AssistLib
+	url = git@github.com:c1tr00z/assist-lib-git-submodule.git
